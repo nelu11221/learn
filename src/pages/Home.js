@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import {
   BookIcon, GlobeIcon, CalculatorIcon, FlaskIcon, AtomIcon,
   LeafIcon, CodeIcon, LandmarkIcon, ShieldIcon, ClockIcon,
-  CheckIcon, PlayIcon, ArrowRightIcon, StarIcon, AwardIcon, TrendingUpIcon,
+  CheckIcon, ArrowRightIcon, StarIcon, AwardIcon, TrendingUpIcon,
   LockIcon, GraduationCapIcon
 } from '../icons/Icons';
 
