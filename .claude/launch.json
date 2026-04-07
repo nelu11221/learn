@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "learnify",
+      "runtimeExecutable": "/opt/homebrew/bin/node",
+      "runtimeArgs": ["/Users/nelugarila/Desktop/learn/node_modules/.bin/react-scripts", "start"],
+      "port": 3001
+    }
+  ]
+}
